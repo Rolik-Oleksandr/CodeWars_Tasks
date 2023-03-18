@@ -1,3 +1,5 @@
+package kyu_7;
+
 import org.example.kyu_7.ReverseWords;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;

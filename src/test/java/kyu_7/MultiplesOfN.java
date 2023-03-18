@@ -1,3 +1,5 @@
+package kyu_7;
+
 import org.junit.Assert;
 import org.junit.Test;
 import static org.junit.Assert.assertArrayEquals;
