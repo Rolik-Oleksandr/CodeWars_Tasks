@@ -1,4 +1,4 @@
-package org.example.kyu_7;
+package org.tasks.codewars.kyu_7;
 
 public class NegativeZero {
   public static boolean isNegativeZero(float n) {

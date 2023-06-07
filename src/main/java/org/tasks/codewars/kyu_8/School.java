@@ -1,4 +1,4 @@
-package org.example.kyu_8;
+package org.tasks.codewars.kyu_8;
 
 public class School{
 	public static int getAverage(int[] marks){

@@ -1,4 +1,4 @@
-package org.example.kyu_7;
+package org.tasks.codewars.kyu_7;
 
 public class Row_Weights {
     public static int[] rowWeights (final int[] weights) {

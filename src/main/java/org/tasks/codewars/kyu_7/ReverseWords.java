@@ -1,4 +1,4 @@
-package org.example.kyu_7;
+package org.tasks.codewars.kyu_7;
 /**
  Complete the function that accepts a string parameter, and reverses each word in the string.
  All spaces in the string should be retained.

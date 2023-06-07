@@ -1,4 +1,4 @@
-package org.example.kyu_6;
+package org.tasks.codewars.kyu_6;
 
 public class ValidPhoneNumber {
   public static boolean validPhoneNumber(String phoneNumber) {

@@ -1,4 +1,4 @@
-package org.example.kyu_6;
+package org.tasks.codewars.kyu_6;
 
 import java.util.stream.Stream;
 
