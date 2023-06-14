@@ -1,2 +1,2 @@
 # Hi there
-## There are my solutions tasks from CodeWars
+## There are my solutions tasks from CodeWars and LeetCode
